@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacManGame", "PacManGame.csproj", "{65946C64-49FA-4346-87CB-FBA2B92F569B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3DF001F0-5675-4226-9A67-D7B315AD087E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore.txt = .gitignore.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65946C64-49FA-4346-87CB-FBA2B92F569B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65946C64-49FA-4346-87CB-FBA2B92F569B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65946C64-49FA-4346-87CB-FBA2B92F569B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65946C64-49FA-4346-87CB-FBA2B92F569B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38BAE6F4-B407-43A8-9F76-36FEB099EAE7}
+	EndGlobalSection
+EndGlobal
